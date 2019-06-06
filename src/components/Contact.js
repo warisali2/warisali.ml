@@ -8,32 +8,33 @@ export default class Contact extends Component {
       <>
         <h1>Stay in Touch</h1>
         <p>
-          I write about JavaScript, programming, and front-end design. Join over{' '}
-          <strong class="pink">6,000</strong> other developers in keeping up with my content.
-          Unsubscribe whenever. <u>Never any spam, ads, or affiliate links.</u>
+          I write about Machine Learning, Data Science and programming.
+          {/*Join over{' '}*/}
+          {/*<strong class="pink">6,000</strong> other developers in keeping up with my content.*/}
+          {/*Unsubscribe whenever. <u>Never any spam, ads, or affiliate links.</u>*/}
         </p>
-        <NewsletterForm />
-        <p>You can also contact me via email or find me around the web.</p>
+        {/*<NewsletterForm />*/}
+        <p>You can contact me via email or find me around the web.</p>
         <ul>
           <li>
-            <strong>Email</strong>: <a href="mailto:tania@taniarascia.com">tania@taniarascia.com</a>
+            <strong>Email</strong>: <a href="mailto:waris@warisali.ml">waris@warisali.ml</a>
           </li>
           <li>
             <strong>GitHub</strong>:{' '}
-            <a target="_blank" rel="noopener noreferrer" href="https://github.com/taniarascia">
-              taniarascia
+            <a target="_blank" rel="noopener noreferrer" href="https://github.com/warisali2">
+              warisali2
             </a>
           </li>
           <li>
             <strong>Twitter</strong>:{' '}
-            <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/taniarascia">
-              taniarascia
+            <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/M_WarisAli">
+              M_WarisAli
             </a>
           </li>
           <li>
             <strong>LinkedIn</strong>:{' '}
-            <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/taniarascia">
-              taniarascia
+            <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/warisali2">
+              warisali2
             </a>
           </li>
           <li>
