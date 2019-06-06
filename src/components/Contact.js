@@ -8,7 +8,7 @@ export default class Contact extends Component {
       <>
         <h1>Stay in Touch</h1>
         <p>
-          I write about Machine Learning, Data Science and programming.
+          I write about Machine Learning, Data Science and Programming.
           {/*Join over{' '}*/}
           {/*<strong class="pink">6,000</strong> other developers in keeping up with my content.*/}
           {/*Unsubscribe whenever. <u>Never any spam, ads, or affiliate links.</u>*/}
