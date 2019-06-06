@@ -30,49 +30,50 @@ export default class Index extends Component {
         <div className="container">
           <div className="lead">
             <div>
-              <h1>{`Hi, I'm Tania`}</h1>
+              <h1>{`Hi, I'm Waris`}</h1>
               <p>
-                {`I'm a full-stack software developer specializing in modern JavaScript. I write about
+                {`I'm a machine learning engineer. I write about
                 what I know and break down complex concepts in an accessible and intuitive
                 way.`}
               </p>
               <p>
-                I like making things from scratch and <a href="/learn">learning in public</a>. My
-                open source projects include{' '}
-                <a href="https://github.com/taniarascia/laconia/" target="blank">
-                  an MVC framework
-                </a>
-                ,{' '}
-                <a href="https://taniarascia.github.io/primitive/" target="blank">
-                  a CSS framework
-                </a>
-                ,{' '}
-                <a href="https://github.com/taniarascia/chip8/" target="blank">
-                  an old-school emulator
-                </a>
-                , and{' '}
-                <a href="https://taniarascia.github.io/new-moon/" target="blank">
-                  the optimized dark theme
-                </a>{' '}
-                for web development.
+                I like making things from scratch and <a href="/learn">learning in public</a>.
+                {/*My*/}
+                {/*open source projects include{' '}*/}
+                {/*<a href="https://github.com/taniarascia/laconia/" target="blank">*/}
+                  {/*an MVC framework*/}
+                {/*</a>*/}
+                {/*,{' '}*/}
+                {/*<a href="https://taniarascia.github.io/primitive/" target="blank">*/}
+                  {/*a CSS framework*/}
+                {/*</a>*/}
+                {/*,{' '}*/}
+                {/*<a href="https://github.com/taniarascia/chip8/" target="blank">*/}
+                  {/*an old-school emulator*/}
+                {/*</a>*/}
+                {/*, and{' '}*/}
+                {/*<a href="https://taniarascia.github.io/new-moon/" target="blank">*/}
+                  {/*the optimized dark theme*/}
+                {/*</a>{' '}*/}
+                {/*for web development.*/}
               </p>
               <div className="social-buttons">
                 <div>
                   <a
                     className="twitter-follow-button"
-                    href="https://twitter.com/taniarascia"
+                    href="https://twitter.com/M_WarisAli"
                     data-size="large"
                     data-show-screen-name="false"
                   >
-                    Follow @taniarascia
+                    Follow @M_WarisAli
                   </a>
                 </div>
                 <div>
                   <GitHubButton
-                    href="https://github.com/taniarascia"
+                    href="https://github.com/warisali2"
                     data-size="large"
                     data-show-count="true"
-                    aria-label="Follow @taniarascia on GitHub"
+                    aria-label="Follow @warisali2 on GitHub"
                   >
                     Follow
                   </GitHubButton>
@@ -80,15 +81,15 @@ export default class Index extends Component {
               </div>
             </div>
             <div className="callouts">
-              <Link to="/getting-started-with-react" className="article-callout">
-                <img src={react} alt="React" /> React
-              </Link>
-              <Link to="/getting-started-with-vue" className="article-callout">
-                <img src={vue} alt="Vue" /> Vue
-              </Link>
-              <Link to="/es6-syntax-and-feature-overview/" className="article-callout">
-                <img src={js} alt="JS" /> JavaScript ES6
-              </Link>
+              {/*<Link to="/getting-started-with-react" className="article-callout">*/}
+                {/*<img src={react} alt="React" /> React*/}
+              {/*</Link>*/}
+              {/*<Link to="/getting-started-with-vue" className="article-callout">*/}
+                {/*<img src={vue} alt="Vue" /> Vue*/}
+              {/*</Link>*/}
+              {/*<Link to="/es6-syntax-and-feature-overview/" className="article-callout">*/}
+                {/*<img src={js} alt="JS" /> JavaScript ES6*/}
+              {/*</Link>*/}
             </div>
           </div>
         </div>
@@ -99,56 +100,56 @@ export default class Index extends Component {
             <PostListing simple postEdges={latestPostEdges} />
           </section>
 
-          <section className="section">
-            <h2>Most Popular</h2>
-            <PostListing simple postEdges={popularPostEdges} />
-          </section>
+          {/*<section className="section">*/}
+            {/*<h2>Most Popular</h2>*/}
+            {/*<PostListing simple postEdges={popularPostEdges} />*/}
+          {/*</section>*/}
 
           <section className="section">
             <h2>Open Source Projects</h2>
             <ProjectListing projects={projects} />
           </section>
 
-          <section className="section">
-            <h2>Podcasts</h2>
-            <SimpleListing simple data={podcasts} />
-          </section>
+          {/*<section className="section">*/}
+            {/*<h2>Podcasts</h2>*/}
+            {/*<SimpleListing simple data={podcasts} />*/}
+          {/*</section>*/}
 
-          <section className="section">
-            <h2>Speaking</h2>
-            <SimpleListing simple data={speaking} />
-          </section>
+          {/*<section className="section">*/}
+            {/*<h2>Speaking</h2>*/}
+            {/*<SimpleListing simple data={speaking} />*/}
+          {/*</section>*/}
 
-          <section className="section">
-            <h2>{`Other People's Opinions`}</h2>
-            <div className="quotations">
-              <blockquote className="quotation">
-                <p>
-                  {`“It's no exaggeration to say that I
-                wouldn't currently have a job in development without this site. So thanks for
-                ruining my life, Tania.”`}
-                </p>
-                <cite>— Craig</cite>
-              </blockquote>
-              <blockquote className="quotation">
-                <p>
-                  {`“Not to get too dramatic, but I find your site to be an unspeakably beautiful
-                lifeboat in an overwhelming sea of technical jargon and shite.”`}
-                </p>
-                <cite>— Lori</cite>
-              </blockquote>
-            </div>
-          </section>
+          {/*<section className="section">*/}
+            {/*<h2>{`Other People's Opinions`}</h2>*/}
+            {/*<div className="quotations">*/}
+              {/*<blockquote className="quotation">*/}
+                {/*<p>*/}
+                  {/*{`“It's no exaggeration to say that I*/}
+                {/*wouldn't currently have a job in development without this site. So thanks for*/}
+                {/*ruining my life, Tania.”`}*/}
+                {/*</p>*/}
+                {/*<cite>— Craig</cite>*/}
+              {/*</blockquote>*/}
+              {/*<blockquote className="quotation">*/}
+                {/*<p>*/}
+                  {/*{`“Not to get too dramatic, but I find your site to be an unspeakably beautiful*/}
+                {/*lifeboat in an overwhelming sea of technical jargon and shite.”`}*/}
+                {/*</p>*/}
+                {/*<cite>— Lori</cite>*/}
+              {/*</blockquote>*/}
+            {/*</div>*/}
+          {/*</section>*/}
 
-          <section className="newsletter-section section">
-            <h2>Join the Newsletter</h2>
-            <p>
-              I write about JavaScript, programming, and front-end design. Join over {' '}
-              <strong class="pink">6,000</strong> other developers in keeping up with my content.
-              Unsubscribe whenever. <u>Never any spam, ads, or affiliate links.</u>
-            </p>
-            <NewsletterForm />
-          </section>
+          {/*<section className="newsletter-section section">*/}
+            {/*<h2>Join the Newsletter</h2>*/}
+            {/*<p>*/}
+              {/*I write about JavaScript, programming, and front-end design. Join over {' '}*/}
+              {/*<strong class="pink">6,000</strong> other developers in keeping up with my content.*/}
+              {/*Unsubscribe whenever. <u>Never any spam, ads, or affiliate links.</u>*/}
+            {/*</p>*/}
+            {/*<NewsletterForm />*/}
+          {/*</section>*/}
         </div>
       </Layout>
     )
