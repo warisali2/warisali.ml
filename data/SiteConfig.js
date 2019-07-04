@@ -9,20 +9,20 @@ const config = {
   dateFromFormat: 'YYYY-MM-DD',
   dateFormat: 'MMMM Do, YYYY',
   siteDescription:
-    'Waris Ali is full-stack software developer specializing in modern JavaScript who breaks down complex concepts in an accessible and intuitive way.',
+    'Waris Ali is a Machine Learning Engineer who breaks down complex concepts in an accessible and intuitive way.',
   siteRss: '/rss.xml',
   // googleAnalyticsID: 'UA-42068444-1',
   googleAnalyticsID: '',
   // disqusShortname: 'taniarascia',
   disqusShortname: '',
   postDefaultCategoryID: 'Tech',
-  userName: 'Tania',
-  userEmail: 'tania@taniarascia.com',
-  userTwitter: 'taniarascia',
-  userLocation: 'Chicago, IL',
+  userName: 'Waris',
+  userEmail: 'waris@warisali.ml',
+  userTwitter: 'iamwarisali',
+  userLocation: 'Lahore, PK',
   userAvatar: 'https://api.adorable.io/avatars/150/test.png',
   userDescription:
-    'I build open source projects and write the missing instruction manuals of the web.',
+    'I build open source projects and write the missing instruction manuals of the Machine Learning.',
   menuLinks: [
     {
       name: 'Me',

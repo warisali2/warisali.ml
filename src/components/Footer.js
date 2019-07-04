@@ -11,7 +11,7 @@ export default class Footer extends Component {
         {/*<a href="https://patreon.com/taniarascia" target="_blank" rel="noopener noreferrer">*/}
           {/*Patreon*/}
         {/*</a>*/}
-        <a href="https://twitter.com/M_WarisAli" target="_blank" rel="noopener noreferrer">
+        <a href="https://twitter.com/iamwarisali" target="_blank" rel="noopener noreferrer">
           Twitter
         </a>
         <a href="https://github.com/warisali2" target="_blank" rel="noopener noreferrer">
