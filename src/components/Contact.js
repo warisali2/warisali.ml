@@ -27,8 +27,8 @@ export default class Contact extends Component {
           </li>
           <li>
             <strong>Twitter</strong>:{' '}
-            <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/M_WarisAli">
-              M_WarisAli
+            <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/iamwarisali">
+              iamwarisali
             </a>
           </li>
           <li>
