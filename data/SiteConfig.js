@@ -2,7 +2,7 @@ const config = {
   siteTitle: 'Waris Ali',
   siteTitleShort: 'Waris Ali',
   siteTitleAlt: 'Waris Ali',
-  siteLogo: '/logos/tania.jpg',
+  siteLogo: '/logos/logo-1024.jpg',
   siteUrl: 'https://www.warisali.ml',
   repo: 'https://github.com/warisali2/warisali.ml',
   pathPrefix: '',
@@ -11,8 +11,7 @@ const config = {
   siteDescription:
     'Waris Ali is a Machine Learning Engineer who breaks down complex concepts in an accessible and intuitive way.',
   siteRss: '/rss.xml',
-  // googleAnalyticsID: 'UA-42068444-1',
-  googleAnalyticsID: '',
+  googleAnalyticsID: 'UA-143373689-1',
   // disqusShortname: 'taniarascia',
   disqusShortname: '',
   postDefaultCategoryID: 'Tech',
