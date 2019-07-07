@@ -1,17 +1,16 @@
 ---
 date: 2018-08-20
-title: 'Getting Started with React - An Overview and Walkthrough Tutorial'
+title: 'Developer Career Paths - An Overview'
 template: post
-thumbnail: '../thumbnails/react.png'
-slug: getting-started-with-react
+thumbnail: '../thumbnails/writing.png'
+slug: dev-career-paths
 categories:
   - Popular
-  - JavaScript
+  - Guide
 tags:
-  - api
-  - javascript
-  - library
-  - react
+  - roadmap
+  - guide
+  
 ---
 
 I've been hearing about React since I first started learning JavaScript, but I'll admit I took one look at it and it scared me. I saw what looked like a bunch of HTML mixed with JavaScript and thought, _isn't this what we've been trying to avoid? What's the big deal with React?_
