@@ -1,4 +1,4 @@
-# warisali.ml [![Netlify Status](https://api.netlify.com/api/v1/badges/3c8b21bf-072c-4f9a-aa60-e869f25b1c9c/deploy-status)] [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# warisali.ml [![Netlify Status](https://api.netlify.com/api/v1/badges/3c8b21bf-072c-4f9a-aa60-e869f25b1c9c/deploy-status)](https://app.netlify.com/sites/warisali/deploys) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Personal website running on Gatsby, React, and Node.js.
 
