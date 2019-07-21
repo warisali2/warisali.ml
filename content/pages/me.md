@@ -20,8 +20,8 @@ I aim to help create this world a better place for everyone and teach others to 
 ## Currently Using
 
 - **Computer:** Dell Inspiron 15 
-- **Hosting:** [Netlify](https://netlify.com)
-- **Editor:** [WebStorm](https://www.jetbrains.com/webstorm/)
+- **Hosting:** [Netlify](https://netlify.com), [Heroku](https://heroku.com)
+- **Editor:** [WebStorm](https://www.jetbrains.com/webstorm/), [PyCharm](https://www.jetbrains.com/pycharm)
 - **Static Site Generator:** [Gatsby](https://gatsbyjs.org)
 - **Syntax highlighting:** [PrismJS](http://prismjs.com/)
 - **Code theme:** [New Moon](https://taniarascia.github.io/new-moon)
