@@ -1,5 +1,5 @@
 ---
-date: 2018-08-20
+date: 2019-07-21
 title: 'Which Career Should You Pursue in IT?'
 template: post
 thumbnail: '../thumbnails/writing.png'
