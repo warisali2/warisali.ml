@@ -1,9 +1,9 @@
 ---
 date: 2018-08-20
-title: 'Developer Career Paths - An Overview'
+title: 'Which Career Should You Pursue in IT?'
 template: post
 thumbnail: '../thumbnails/writing.png'
-slug: dev-career-paths
+slug: which-career-should-you-pursue-in-it
 categories:
   - Popular
   - Guide
@@ -12,41 +12,38 @@ tags:
   - guide
 ---
 
+# Background
+I was interested in programming since I was in 6th grade. But because of no proper guidance, I messed around here and 
+there in the technologies realm. I liked making computer do things. Whenever I got an idea, I just search about it on the
+internet and made it. But after some time, I started to feel like I was not becoming master in some field. I was like jack
+of all trades but the master of none. 
+
+So I started reading a lot of articles on How to choose a field in Computer Science. I wanted a field that allowed me to create new interesting things but still had a 
+scientific touch to it. So, I finally choose to pursue mastery in Machine Learning field 
+because in this field I don't only have to learn different kinds tools, there's maths and science too.
+
+So I am writing this article to help those who are don't know what field to pursue their careers in, or just starting out
+in Computer Science in general.
+
 # Introduction
-About my problems
+Information has changed the world. More industries than ever are leveraging IT to solve problems. As companies strive to 
+keep up with the times, more job are becoming available. But with so many options to choose from, how do you decide 
+which one to choose from?
 
-Information has changed the world 
-
-more industries than ever are leveraging IT to solve problems
-
-as companies strive to keep up with the times, more job are becoming available.
-
-but with so many options to choose from, how do you decide which one to choose from?
-
-As the old saying goes, knowledge is power, and this course will empower you to make an informed decision in your 
+As the old saying goes, knowledge is power, and I hope this article will empower you to make an informed decision in your 
 pursuit of IT developer careers. 
 
-Which career should you pursue in IT?
-
-There are numerous flavors of IT developer jobs out there and it's impossible to cover all of them because new ones are 
-still coming out even as we speak. The best approach is to focus on the major categories and career path. Each career 
-path requires significantly different preparation. 
+This is a long post but try to read fully, It will help you a lot.
 
 # Core IT Skills
-
+Each career path in IT requires significantly different preparation. However, they all share a common core of knowledge and 
+skills.
+  
 ## Technical Skills
-However, they all share a common core of knowledge and skills. One of the most important aspects of being an IT 
-developer is an ability to program machines. Here, the term developer implies an ability to build. In the case of IT 
-developers, what you are building is IT systems consisting of hardware controlled by software produced through 
-programming. However, programming skills by themselves are not very useful unless they are coupled with specific 
-domains such as cyber security or system administration.
- 
-The main difference among various IT developer careers is what the focus is. Software engineers specialize in 
-high quality software development while cyber security developers concentrate on preventing intrusions into your 
-computer network. Another difference is that software engineering professionals should know much more about software 
-development than system administrators. To system administrators, programming is just one of the tools available to 
-make the job easier through automation but software engineers should be much more concerned about development 
-methodologies, coding style, secure coding, et cetera. 
+One of the most important aspects of being an IT developer is an ability to program machines. Here, the term developer 
+implies an ability to build. In the case of IT developers, what you are building is IT systems consisting of hardware 
+controlled by software produced through programming. However, programming skills by themselves are not very useful 
+unless they are coupled with specific domains such as cyber security or system administration.
 
 ## Soft Skills
 Technical skills may lead you to job interviews or even job offers. But they are not the only thing that interviewer is
@@ -60,12 +57,13 @@ solutions for them. So you need to interact with them to better understand their
 So, Don't ever think you only need technical skills to succeed in IT career. you definitely need social skills as well.
 
 # Major Fields
+There are numerous flavors of IT developer jobs out there and it's impossible to cover all of them because new ones are 
+still coming out even as we speak. The best approach is to focus on the major categories and career path. 
 
 ## Software Engineering
-### Careers in Software Engineering
-A big portion of IT developers are Software Developers whose primary responsibilites revolve around producing softwares.
-This field is called Software Engineering, whose main focus is develop softwares. Software Engineering can be further
-sub divided into sub fields based the certain aspects of Sofware Engineering they specialize in, which are:
+A big portion of IT developers are Software Developers whose primary responsibilities revolve around producing software.
+This field is called Software Engineering, whose main focus is develop software. Software Engineering can be further
+sub divided into sub fields based the certain aspects of Software Engineering they specialize in, which are:
 
 - Requirement Analyst
 - System Architect
@@ -82,11 +80,13 @@ Under the guidance of a software architect, software developers design their sof
 code. Testing and QA insure that the implemented code conforms to the requirements, both functional and non-functional. 
 Finally, the software is ready to be installed in a production environment and "deployment" refers to this process. 
 
-#### Requirement Analyst
-We develop software to solve our problems. But problems are continously or our needs are continously changing. So, even
-for a well known problem like hotel reservations, new systems are being developed daily. because our needs are chaning.
+### Careers in Software Engineering
 
-When Hotel Reservation started in 1900s, there was no such thing as credit card. and now we can rent extra rooms in our 
+#### Requirement Analyst
+We develop software to solve our problems. But problems are continuously or our needs are continuously changing. So, even
+for a well known problem like hotel reservations, new systems are being developed daily. because our needs are changing.
+
+When Hotel Reservations started in 1900s, there was no such thing as credit card and now we can rent extra rooms in our 
 homes using services like airbnb.com
 
 Due to this dynamic nature of what users want and their technology choices, understanding their needs is extremely 
@@ -101,17 +101,13 @@ as important as designing a solution and implementing it. As a result, the impor
 Analyst can never be overstated. 
 
 #### Software Architect
-Post of Software Architect is considered the pinnacle of software engineering. SA is a person who spent a lot of time in
-every aspect of Software Engineering.
+The role of Software Architect is considered the pinnacle of software engineering. Software Architect is a person who has 
+spent a lot of time in every aspect of Software Engineering.
 
-This is why we need experts in eliciting software requirements and keeping track of them due to their ever changing 
-property. We call these specialists Software Requirements Analysts. Remember that defining a problem and its scope is 
-as important as designing a solution and implementing it. As a result, the importance of the role of Requirements 
-Analyst can never be overstated. 
-
-SA acts as Technical leader in team who works along side Project manager to provide necessary resources and making sure 
-software is delivered on time. To ensure the quality of software, SA defines the architechture of the software, defining
-design visions, reviewing code and authorizing it's inclusion in the working software.
+He acts as Technical leader in team who works along side Project manager to provide necessary resources and making sure 
+software is delivered on time. Common responsibilities of Software Architecture 
+includes designing the architecture of the software, defining design visions, reviewing code and authorizing its 
+inclusion in the working software.
 
 #### Software Developer or Programmer
 The role of a computer programmer is to interpret the design document put together by a software architect or 
@@ -127,15 +123,13 @@ languages like unified modeling language, or UML, not to mention knowing multipl
 
 Knowledge in software development methodologies is also critical because more and more organizations are adopting them. 
 Some of you may have already heard of scrum or the agile methodology, which is two of the most popular software 
-development methodologies used today. So what does this mean? Well being a programmer means constant learning. 
-New tools and methodologies, as well as programming languages are coming out all the time and you really have to be an 
-independent learner to stay on top of your profession as a programmer these days. 
+development methodologies used today. So being a programmer means constant learning. New tools and methodologies, 
+as well as programming languages are coming out all the time and you really have to be an independent learner 
+to stay on top of your profession as a programmer these days. 
 
 #### Quality Assurance Specialist and Tester
 Software quality is different from functionality. Your software may be perfectly functional, but its quality could still 
-be poor. You're already familiar with this concept because of your daily use of a computer operating system, like 
-Windows or macOS. There are numerous functional features in these operating systems, or OS, but they frustrate you from 
-time to time by not being responsive, reliable, or intuitive enough.
+be poor. It may perform all of the functions but it may not be responsive, reliable, or intuitive enough.
 
 More recently, privacy and security concerns are making the users worried about identity theft or malicious software or 
 malware infection. This overall user experience, with respect to the quality attributes of software, such as 
@@ -144,9 +138,7 @@ act as the expected users of software and provide timely feedback to remove any 
 actual customers start complaining.
 
 QA specialists can closely work with the rest of the software engineering team to improve the quality of software 
-throughout a software development process. Let's say that users are worried about malware. A QA engineer for an OS may 
-look at the entire process of how the OS is built and recommend how to integrate security into the OS so that it's more 
-resilient to malware attacks.
+throughout a software development process.
 
 Testing is much narrower in scope. As a test engineer, your role is to attempt to break the software you're testing. 
 The goal here is to find as many bugs as possible so that the software doesn't misbehave when it's released and being 
@@ -156,17 +148,12 @@ against the software requirements produced earlier during the software developme
 Although different in their scope, both QA specialists and testers strive to increase the overall quality of software 
 by scrutinizing it in their own ways.
 
-#### Deployment Speicalist or DevOps Specialist
+#### Deployment Specialist and DevOps Specialist
 Releasing the first version of software is a big milestone in the software development process. But, that's just the 
 beginning. We know that the first release is only the start of many more future ones to come due to changes in user 
 requirements, bug fixes, library updates, upgrades, et cetera. This repeated and iterative nature of software releases   
 requires expertise and gracefully deploying software into it's desired environment to avoid any potential hiccups and 
 to ensure smooth transition from testing to production.
-
-Here we're not talking about your personal software such as a word processor program but enterprise software which 
-plays a critical role in the success of your organization. Imagine that Netflix has a new software release and 
-it's deployment fails. As a result, many subscribers will not be able to use their video on-demand service and the 
-stock price will drop immediately. This is why the role of deployment specialist is becoming increasingly important.
 
 Depending on how smoothly the deployment process goes, the success or failure of your business is at stake. Because of 
 this elevated importance of seamless software development, industry leaders are attempting to automate the deployment 
@@ -179,9 +166,9 @@ about helping with the automation and monitoring of the deployment process.
 
 ### Preparation Tips
 To become a software engineer, the most conventional route to take is going through a formal education process, that 
-being a college degree. Most colleges have computer science degree programs and even 
-software engineering majors. At four-year institutions an engineering college often houses computer science or computer 
-engineering degree programs. As its name suggests Computer Engineering focuses more on hardware while computer science 
+being a college degree. Most colleges have computer science degree programs and even software engineering majors. 
+At four-year institutions an engineering college often houses computer science or computer engineering degree programs. 
+As its name suggests Computer Engineering focuses more on hardware while computer science 
 programs are more about developing software.
 
 Of course you don't necessarily have to earn a computer science or software engineering degree to become a software 
@@ -190,7 +177,7 @@ software engineer.
 
 There are a few reasons for this. First there's a huge demand for software engineers out there. Second companies mostly 
 care about your skills and what you're capable of doing rather than what degrees you have. As long as you're technically 
-qualified with decent liberal arts skills, you should be able to get your job. Finally unlike like other professions, 
+qualified with decent soft skills, you should be able to get your job. Finally unlike like other professions, 
 there are so many online resources and communities that can support your pursuit of software engineering career.
 
 All you have to do is making the efforts, which could be the biggest challenge. 
@@ -199,7 +186,7 @@ All you have to do is making the efforts, which could be the biggest challenge.
 There are numerous available certifications in software engineering. Some of them are vendor-specific and others are 
 not. 
 
-The IEEE Computer Society's offering three vendor-neuteral certifications which are 
+The IEEE Computer Society's offering three vendor-neutral certifications which are 
 
 - Associate Software Developer 
 - Professional Software Developer 
@@ -214,16 +201,15 @@ popular among software engineers. These include
 - Oracle Certified Java Professional or OCP
 - Many others
 
-You may not need certifications to get a job, but it's good to showcase your skills and credentials. Having one increases
-you chances of getting a good job a lot.
-
 As you can see there are so many certification opportunities in software engineering. You need to pick and choose the 
 best ones for your own needs. Your job may require you to get certified and even pay for the certification exams. Your 
 career plans should also guide you in the choice of certifications to pursue. If you're thinking about transitioning 
 into a new career path certifications can be a good stepping stone to build your credentials. 
 
+You may not need certifications to get a job, but it's good to showcase your skills and credentials. Having one increases
+you chances of getting a good job by a lot.
+
 ## System Administration
-### Careers in System Administration
 System administration involves installing operating systems, configuring them, and maintaining a network of computers 
 powered by those OS's. System administrators ensure that the computer systems they manage are reliable and available 
 enough to meet the requirements of their organization and end users. The efforts made by system administrators should 
@@ -241,7 +227,9 @@ Discipline or domain specific aspect of system administration also ask for addit
 
 Big data is an emerging technology field which calls for an upgrade in system administrator expertise because it 
 demands familiarity with so many new tools and technologies. Of course you can learn it all and do it all too, but the 
-chance of doing that continues to decrease as the field of system administration expands and in its scope and depth. 
+chance of doing that continues to decrease as the field of system administration expands and in its scope and depth.
+
+### Careers in System Administration
 
 #### Unix/Linux
 Unix has a long history. It originates from the Multics operating system or "OS", jointly developed by MIT, 
@@ -250,12 +238,9 @@ to serve many remote users. Linux was a Unix-like operating system developed for
 1990's.
 
 Linux is open source and free software, while Unix is proprietary. Because of this longevity, the Unix-Linux OS are 
-loaded with features and offers lots of nooks and crannies to explore for beginners. Some people complain that, that 
-Unix-Linux OS is cryptic. Although, Unix-Linux distributions provide graphical user interfaces or "GUI", a majority of 
-system administration tasks still rely on command line interfaces.
-
-Through which users type in text based key words to communicate with the computer. Novices find this quite daunting. 
-On the other hand, the command line based operation is what makes the Unix-Linux OS powerful. Especially, for tasks to 
+loaded with features and offers lots of nooks and crannies to explore for beginners. Although, Unix-Linux distributions 
+provide graphical user interfaces or "GUI", a majority of system administration tasks still rely on command line 
+interfaces. The command line based operation is what makes the Unix-Linux OS powerful. Especially, for tasks to 
 be conducted by system administrators. Automation is relatively easy, because all you need is a text file called 
 "Shell Script" consisting of a few lines of commands.
 
@@ -289,7 +274,7 @@ this is an excellent reason you should consider being a Windows system administr
 
 #### Cloud Computing
 Cloud Computing is no longer an emerging technology. We are now surrounded by products built on Cloud computing 
-technology. We use Cloud storage services like One Drive and Box on a daily basis. We create documents using Google 
+technology. We use Cloud storage services like One Drive and DropBox on a daily basis. We create documents using Google 
 Docs. We store our photos in the Amazon Cloud. While the end users like us reap the benefits of Cloud computing, 
 there need to be system administrators behind the scenes working on the infrastructure that makes Cloud computing 
 possible.
@@ -305,12 +290,8 @@ of VMs as long as you have enough memory and CPUs on the computers constituting 
 the description so far, you can get a glimpse of why Cloud computing is so scalable and how complex the enabling 
 technologies can be.
 
-This additional complexity warrants dedicated Cloud computing system administrators who have expertise in managing 
-hypervisors and their related technologies.
-
 #### Big Data
-Big data is a term that describes a large dataset. It's big data because it usually defines a conventional processing 
-model that depends on a single computer. The concept of big data is a moving target because big data today may not be 
+Big data is a term that describes a large dataset. The concept of big data is always changing because big data today may not be 
 treated as big data tomorrow. Why? Because the storage and processing capacities of a single computer will grow rapidly 
 due to technological advances.
 
@@ -337,7 +318,7 @@ most important things to remember is your exposure to the technologies you'll be
 
 To reach the level of proficiency you'd like to have as a system administrator, you really have to fall in love with 
 the technologies of your choice. If you choose to become a Unix/Linux system administrator, the operating system 
-commands should be almost your second nature. The experience is reminiscent of learning a language. If you don't use 
+commands should be almost your second nature. The experience is like that of learning a language. If you don't use 
 it, you lose it. You have to be willing to spend a significant amount of time to eventually master the operating 
 systems.
 
@@ -355,37 +336,40 @@ The System Administrator Certifications vary depending on what technologies are 
 options for Unix/Linux system administrators. Some of their certifications include 
 
 - Redhat System Administration 
-- Certified System Administrator. 
+- Certified System Administrator
 
-CompTIA is another organization providing certification opportunities. CompTIA Linux+ is one of their certifications. 
+CompTIA is another organization providing certification opportunities. __CompTIA Linux+__ is one of their certifications. 
 
 There are also other vendors, such as Oracle and Linux Professional Institute, or LPI. Microsoft has its own 
-certification program for its Windows product line and Microsoft Certified Systems Administrator, or MCSA, 
-is available for system administrators. Cloud computing has been around for awhile and there are many options for 
-certifications.
+certification program for its Windows product line and **Microsoft Certified Systems Administrator**, or MCSA, 
+is available for system administrators. 
 
-One of the major cloud computing vendors is VMware, and its certifications are VMware Certified Associate, or VCA, 
-and Professional, or VCP, series. Microsoft also has its own cloud computing platform called Azure, and its 
-certification is Microsoft Azure Certification Exam. Big Data certifications revolve around specific products.
+Cloud computing has been around for awhile and there are many options for certifications. One of the major cloud 
+computing vendors is VMware, and its certifications are **VMware Certified Associate, or VCA, 
+and Professional, or VCP,** series. Microsoft also has its own cloud computing platform called Azure, and its 
+certification is **Microsoft Azure Certification Exam.** 
 
-These include Amazon Web Services, or AWS, Certified Big Data Specialty, Cloudera Certified Professional 
-Data Engineer, or CCPDE, Cloudera Certified Associate, or CCA, Spark and Hadoop Developer, and SAS Big Data 
-Certification. 
+Big Data certifications revolve around specific products. These include 
+
+- Amazon Web Services or AWS
+- Certified Big Data Specialty
+- Cloudera Certified Professional Data Engineer or CCPDE
+- Cloudera Certified Associate or CCA
+- Spark and Hadoop Developer
+- SAS Big Data Certification
 
 There are many more certifications available for system administrators, and, as usual, you must be 
 wise about which certifications to get because they are expensive and time-consuming to obtain and maintain. 
 
 ## Cyber Security
-### Careers in Cyber Security
 The internet has brought us unprecedented opportunities, including e-commerce, user-generated content such as Youtube, 
 and online education, just to name a few. Despite these positive outcomes, we're also suffering from the consequences 
 of criminal activities occurring in cyberspace. Cybersecurity is a term referring to both preventive and reactive 
 countermeasures designed to remove or reduce the widespread threats in cyberspace, or in other words, the internet.
 
 Cybersecurity is becoming increasingly important. New threats are appearing constantly. Many of them end up affecting 
-our daily lives. Take data breaches. Many of us already have experiences of receiving emails notifying that our 
-personal information was compromised. Organizations are aware of this reality and seeking help. To respond to this 
-need, a new breed of I.T. developers has emerged.
+our daily lives. Organizations are aware of this reality and seeking help. To respond to this need, a new breed of 
+I.T. developers has emerged.
 
 We call them cybersecurity professionals. Cybersecurity threats come in many shapes and forms, and so do the career 
 paths in cybersecurity. Penetration testers launch simulated cybersecurity attacks against organizations, to check 
@@ -397,9 +381,11 @@ its own or those imposed by government and industry regulators. Network security
 at the forefront of cybersecurity warfare. They monitor our networks to detect any anomalies and respond to attacks. 
 These are the first responders in cybersecurity.
 
-The field of cybersecurity is still evolving, and I'm sure that there are many more relatively-new job titles already 
-out there or will be coming out soon. The career paths I have listed here are some of the most representative ones 
+The field of cybersecurity is still evolving, and there are many more relatively-new job titles already 
+out there or will be coming out soon. The career paths listed here are some of the most representative ones 
 available today. 
+
+### Careers in Cyber Security
 
 #### Penetration Tester
 Penetration testers conduct simulated attacks against organizations to test their cyber-security readiness. They get 
@@ -507,29 +493,38 @@ PCI DSS or HIPAA is a must. The nice thing about the cybersecurity profession is
 anybody with varying interests and capabilities can find their own calling and ways to be driving in what they do.
 
 ### Certifications
-One of the most widely recognized cybersecurity certifications is Certified Information Systems Security Professional 
-or CISSP. International Information System Security Certification Consortium, or ISC squared, is the organization 
-issuing CISSP certification. It also offers more specialized certifications such as, 
-Certified Secure Software Lifecycle Professional, or CSSLP.
+One of the most widely recognized cybersecurity certifications is **Certified Information Systems Security Professional 
+or CISSP**. International Information System Security Certification Consortium, or ISC squared, is the organization 
+issuing CISSP certification. It also offers more specialized certifications such as, **Certified Secure Software 
+Lifecycle Professional, or CSSLP and, Certified Cloud Security Professional or CCSP.** 
 
-And, Certified Cloud Security Professional or CCSP. If you're looking for an entry-level cybersecurity certification 
-Security Plus offered by CompTIA is a great choice. Penetration testers can earn the Certified Ethical Hacker or 
-CEH certification, made available by the International Counsel of Electronic Commerce Consultants, or EC-Council.
+If you're looking for an entry-level cybersecurity certification **Security Plus offered by CompTIA** is a great choice. 
 
-EC-Council provides more advanced options for pen testers such as EC-Council Certified Security Analyst, or ECSA, and 
-Licensed Penetration Tester, or LPT. IT auditors can get the Certified Information Systems Auditor, or CISA 
-certification through Information Systems Audit and Control Association, or ISACA.
+Penetration testers can earn the **Certified Ethical Hacker or CEH certification,** made available by the 
+International Counsel of Electronic Commerce Consultants, or EC-Council. EC-Council provides more advanced options 
+for pen testers such as **EC-Council Certified Security Analyst, or ECSA, and Licensed Penetration Tester, or LPT.** 
 
-Some of the well known computer forensic certifications are Global Information Assurance Certification Forensic Examiner
- or GCFE. Global Information Assurance Certification Forensic Analyst, or GCFA. Certified Cyber Forensic Professional by
-  ISC squared, and Computer Hacking Forensic Investigator, CHFI by EC-Council.
+**IT auditors** can get the **Certified Information Systems Auditor, or CISA** certification through 
+Information Systems Audit and Control Association, or ISACA.
 
-There are also vendor-specific computer forensic certifications like Access Data Certified Examiner, or ACE, and 
-EnCase Certified Examiner, or ENCE. For network security professionals Cisco offers the Cisco Certified Network 
-Associates Security, and Cisco Certified Network Professional Security Certifications.  
+Some of the well known **computer forensic certifications** are 
+
+- Global Information Assurance Certification Forensic Examiner or GCFE
+- Global Information Assurance Certification Forensic Analyst or GCFA
+- Certified Cyber Forensic Professional by ISC squared
+- Computer Hacking Forensic Investigator or CHFI by EC-Council.
+
+There are also vendor-specific computer forensic certifications like 
+
+- Access Data Certified Examiner or ACE
+- EnCase Certified Examiner or ENCE
+
+For **network security professionals** Cisco offers
+
+- Cisco Certified Network Associates Security
+- Cisco Certified Network Professional Security Certifications 
 
 ## Data Science
-### Careers in Data Science
 Data science is booming, and there's a good reason for it. We live in a data rich world and there is a growing need to 
 turn all this data into information, so that we can constantly improve what we're doing. Education is one of the sectors 
 that can immensely benefit from data science. We have plenty of data about our students in the form of exam scores, 
@@ -540,7 +535,7 @@ quickly do some innovative things in improving the lives of our students and enh
 success. However, the reality is that we are not able to keep up with the demand for data science professionals and a 
 lot of our visionary projects are put on hold.
 
-This is why we need more professionals in data science. In IT developers can make a difference by automating various 
+This is why we need more professionals in data science. In IT, developers can make a difference by automating various 
 aspects of data science, especially those labor intensive and mundane ones. Among the options available today, machine 
 learning seems to be one of the most promising technologies, and this trend presents a relatively new data science 
 career path in machine learning. Since there are so many software tools that work as enablers in data science, it's now 
@@ -554,6 +549,8 @@ A bare minimum requirement is ability to be able to program in popular data scie
 To be effective in your interpreter role, you need to be able to use powerful visual aids, which is why there is a data 
 science specialty focusing on visualization. Data science is getting a lot of traction these days and you will have 
 ample opportunity to develop your career in this newly emerging and evolving field.
+
+### Careers in Data Science
 
 #### Data Scientist
 The data scientist's job title is quite broad by design. These days organizations of all sizes need help with turning 
@@ -631,11 +628,6 @@ I'd like to remind you that, a majority of consumers of a data analysis, are lay
 decision makers, and so on. Your job as a Visualization Specialist, is to interpret the Numerical and often Cryptic 
 data analysis results into an Intuitive graphic that truly conveys the most important information relevant to the data consumer needs.
 
-Here, you can find some excellent examples of effective visualization, which won the KANTAR, Information is Beautiful 
-Award. In this particular example, the important message to be conveyed is how complex the relationships among the 
-companies working together to prepare for the future of transportation technology, that is, self-driving cars. To 
-generate an infographic like this, you need to be proficient with Visualization software, such as Tableau.
-
 Also necessary are Programming skills, and Knowledge in database management systems, because tools cannot always do 
 everything for you. As you might already have guessed, other important qualities for Visualization Specialists are 
 being artistic and creative. If what I have described so far is close to your aptitude and aspirations, don't 
@@ -656,7 +648,7 @@ field, such as business intelligence, or BI, you can develop your domain specifi
 training opportunities. This learning by doing approach is fine and can give you more options in terms of your job 
 search because you can get a job in virtually any industries. Data science is a foundational topic like mathematics.
 
-Regardless of your discipline, you need it, which also means that data science is only meaningful when it's put into a 
+But Data Science is only meaningful when it's put into a 
 context to solve problems in a specific domain. Therefore domain knowledge is critical for data science to keep its 
 relevance. If you are a data scientist working in the cybersecurity industry, gaining expertise in networking or 
 firewalls is highly beneficial because it gives you more insights when you're trying to do your job as a data scientist.
@@ -670,27 +662,26 @@ As you can see, there is no right time to jump in to data science no matter wher
 process.   
 
 ### Certifications
-As the demand for data science increases, more and more colleges and universities are starting to offer undergraduate 
-degree programs in data science. There are also a number of schools providing graduate programs in data science. There 
-are pros and cons associated with starting early or later when it comes to your pursuit of a data science degree. 
-Getting an early start as a college freshman means that you can develop your skills as a data scientist in a reasonable 
-pace and in a balanced way, because you have four years to study various aspects of data science and get plenty of 
-exposure to all the essential topics, tools, and technologies involved in data science.
+Data science is still evolving and so are it's certifications. 
 
-This is a great option for those who aspire to be data scientists and data analysts. After getting a job in a particular
- field, such as business intelligence, or BI, you can develop your domain specific knowledge through your on the job 
- training opportunities. This learning by doing approach is fine and can give you more options in terms of your job 
- search because you can get a job in virtually any industries. Data science is a foundational topic like mathematics.
+Vendor neutral certifications are starting to appear, one of them is **Certfied Analytics Professional, or CAP**. 
+The Analytics Certification Board oversees the CAP program and consists of members from both academia and industry. 
+There are also a number of universities offering data science certificates.
 
-Regardless of your discipline, you need it, which also means that data science is only meaningful when it's put into a 
-context to solve problems in a specific domain. Therefore domain knowledge is critical for data science to keep its 
-relevance. If you are a data scientist working in the cybersecurity industry, gaining expertise in networking or 
-firewalls is highly beneficial because it gives you more insights when you're trying to do your job as a data scientist.
+Because of it's technology centered nature, data science industry has a number of vendor specific certifications. 
+Companies like Microsoft, Cloudera, EMC, Oracle and SAS all have their own data science certification programs. 
+Microsoft has it's **Microsoft Certified Solutions Expert, or MCSE, data management and analytics.** Cloudera offers it's 
+**Cloudera Certified Professional, or CCP, data engineer certificate.**
 
-This is why it may be beneficial for you to get your undergraduate degree in a non-data science major like 
-cybersecurity or business and then get your master's degree in data science. For those of you who are overachievers, 
-a double major is also an option. If you are already a working professional in a particular industry, getting a 
-master's degree in data science is a way to enhance your career opportunities.
+Other certification opportunities include 
 
-As you can see, there is no right time to jump in to data science no matter where you are in your career development 
-process. 
+- EMC Data Science Associate or EMCDSA
+- Oracle, Business Intelligence Certificate 
+- SAS Certified Data Scientist
+
+Although not as mature as certification programs in other fields with longer history, data science certifications 
+still provide great value for professionals who are interested in advancing their careers and taking them to the next level.
+
+# Conclusion
+IT is a continuously evolving field and so it's good to start early and
+try each field to see what you like, if you are not sure where to start.
