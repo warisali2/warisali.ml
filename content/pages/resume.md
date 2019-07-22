@@ -1,3 +1,4 @@
+<!--
 ---
 title: Tania Rascia
 slug: resume
@@ -84,3 +85,4 @@ Highly motivated and versatile full-stack developer and technical writer who is 
 - Getting Started With React article featured in official React documentation as React For Beginners. [Source](https://reactjs.org/docs/getting-started.html)
 - Interviewed in the Egghead.io Podcast in Switching Careers and Learning in Public with Joel Hooks. [Source](https://egghead.io/podcasts/switching-careers-and-learning-in-public-with-tania-rascia)
 - Wrote published articles for DigitalOcean, Envato Tuts+, SitePoint, LogRocket, Codrops, and Progress. [Source](https://www.taniarascia.com/publications)
+-->
